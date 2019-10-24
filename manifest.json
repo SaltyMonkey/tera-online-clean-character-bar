@@ -1,7 +1,9 @@
 {
   "files": {
     "index.js": "856fc31bd38dbfbfd7081a4bcf0b0cf00d94d64ebac0e6d1a19bca8886242b9a",
-    "README.md": "131e7e3ccbdc9b494ff0ca49415a2762933fb8fa73a70a0bbd6e11b0db81717a",
-    "S1UI_CharacterWindow.gpk": "2c637e04d8ab5fda42512297b4da7e49d552383f5fbcab17a476e3b6f707fb86"
+    "README.md": "c79511af592998128a7c7f9791dbd765e3de67d21006313200caf6e605b67cee",
+    "S1UI_CharacterWindow.gpk": "2c637e04d8ab5fda42512297b4da7e49d552383f5fbcab17a476e3b6f707fb86",
+    "ui/example1.png": "103d7a7a07b8a21b620dcb4b176eac9333cafe0f47fca184959744b9ecb5afeb",
+    "ui/example2.png": "8429e4cce2f397decdbeb0ac89c5f0494b833b59101ea32faf6a080ffddeb1c3"
   }
 }
