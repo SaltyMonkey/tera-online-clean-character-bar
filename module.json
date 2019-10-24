@@ -1,0 +1,13 @@
+{
+    "disableAutoUpdate" : false,
+    "name" : "Clean character bar",
+    "category" : "client",
+    "author" : "SaltyMonkey",
+    "options" : {
+        "guiName" : "Clean character bar",
+        "niceName" : "Clean character bar"
+    },
+    "servers" : [
+        "https://raw.githubusercontent.com/SaltyMonkey/tera-online-clean-character-bar/master/"
+    ]
+}
