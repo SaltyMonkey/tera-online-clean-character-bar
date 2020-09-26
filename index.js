@@ -1,3 +1,5 @@
-module.exports = function CleanCharacterWindow(m) {
-   m.installGPK("S1UI_CharacterWindow.gpk");
-}
+exports.ClientMod = class {
+   install(installer) {
+     installer.gpk("S1UI_CharacterWindow.gpk");
+   }
+};
